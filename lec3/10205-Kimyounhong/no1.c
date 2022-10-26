@@ -3,7 +3,8 @@
 int main(){
     int A = 7;
     int B = 3;
-
+scanf( "%d" , &A);
+scanf( "%d" , &B);
 
     int sum = A + B;
     int sub = A - B;
