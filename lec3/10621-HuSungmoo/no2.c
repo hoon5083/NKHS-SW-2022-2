@@ -2,7 +2,8 @@
 
 int main(){
 
-    int A = 20;
+    int A=0;
+  scanf("%d",&A);
     double div = (double)A*9/5+32;
 
 
