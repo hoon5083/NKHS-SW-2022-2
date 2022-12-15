@@ -2,9 +2,9 @@
 
 int main(){
    int A=0;
-  scanf("%d",&n);
+  scanf("%d",&A);
    int B=0;
-  scanf("%d",&n);
+  scanf("%d",&B);
     
     
     int sum = A + B;
