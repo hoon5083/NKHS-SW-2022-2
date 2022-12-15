@@ -1,14 +1,16 @@
 #include <stdio.h>
 
 int main(){
-    int A = 7;
-    int B = 3;
+    int Woo = 0;
+    scanf("%d",&Woo);
+    int Ya = 0;
+    scanf("%d",&Ya);
 
-    int sum = A + B;
-    int sub = A - B;
-    int mul = A * B;
-    double div = (double)A/B;
-    int rest = A%B;
+    int sum = Woo + Ya;
+    int sub = Woo - Ya;
+    int mul = Woo * Ya;
+    double div = (double)Woo/Ya;
+    int rest = Woo%Ya;
 
     printf("%d\n",sum);
     printf("%d\n",sub);
