@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    int A = 7;
-    int B = 3;
+   int A=0;
+  scanf("%d",&n);
+   int B=0;
+  scanf("%d",&n);
     
     
     int sum = A + B;
