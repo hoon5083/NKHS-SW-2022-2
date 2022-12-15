@@ -2,7 +2,9 @@
 
 int main()
 {
-  double Celsius = 20.0;
-  printf("Celsius to Fahrenheit : %f\n",Celsius*9/5+32);
+  double Cel;
+  printf("Input Celsius :");
+  scanf("%lf", &Cel);
+  printf("Celsius to Fahrenheit : %lf\n",Cel*9/5+32);
   return 0;
 }

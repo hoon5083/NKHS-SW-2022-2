@@ -10,7 +10,7 @@ int main()
   printf("%d\n",A+B);
   printf("%d\n",A-B);
   printf("%d\n",A*B);
-  printf("%f\n",(double)A/(double)B);
+  printf("%lf\n",(double)A/(double)B);
   printf("%d\n",A%B);
 
   return 0;
