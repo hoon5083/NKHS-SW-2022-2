@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-float main(){
+void main(){
  float numC = 0;  
  float numF;
 
